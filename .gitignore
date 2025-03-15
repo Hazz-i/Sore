@@ -1,5 +1,7 @@
 # local env
-sorek-venv/
+venv/
+
+.env
 
 # cache
 .ipynb_checkpoints/
